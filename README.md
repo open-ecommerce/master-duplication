@@ -2,12 +2,12 @@ master-duplication
 ==================
 PHP interface to duplicate web applications with MySQL DBs from server with limited privileges to another server.
 
-Status
+status
 ------------
 I am cleaning the application to make it easer to reed.
 
 
-Appliction Features
+appliction Features
 ------------
 One single page interface
 Multiple application selection
@@ -18,7 +18,7 @@ Transfer remote mySql db into the production server
 Replace url on destination db
 
 
-Why you might need it
+why you might need it
 ------------
 If you are an open-source application integrator as we are in open-ecommerce.org you will lot of your time instaling and configuring applications like Joomla, Magento, WP etc. over and over again for your customers.
 
@@ -28,11 +28,11 @@ We was using bash scripts to duplicate this envirouments but it was a bit a mess
 
 This application do all that but from a web interface.
 
-License
+license
 ------------
 We normaly use some GPL licence but difernt classes included in this application uses different licences and we keep all the comments with copiright in each file used.
 
-Credits
+credits
 ------------
 We used as inspiration and main structure the application the André Fiedler
 
