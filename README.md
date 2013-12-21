@@ -7,7 +7,7 @@ status
 I am cleaning the application to make it easer to reed.
 
 
-appliction Features
+appliction features
 ------------
 One single page interface
 Multiple application selection
