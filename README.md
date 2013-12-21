@@ -2,7 +2,7 @@ master-duplication
 ==================
 PHP interface to duplicate web applications with MySQL DBs from server with limited privileges to another server.
 
-Status:
+Status
 I am cleaning the application to make it easer to reed.
 
 
