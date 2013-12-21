@@ -47,6 +47,7 @@ For the progress bar the ProgressBar class by Slawa Pidgorny
 http://spidgorny.blogspot.com/2012/02/progress-bar-for-lengthy-php-process.html
 
 For the replacement in the remote MySql db the class writen by Jon Segador
+
 https://github.com/jonseg/mysql-search-replace
 
 and boostrap for add some style
